@@ -28,8 +28,8 @@ I am an experienced **AI/ML Engineer** with expertise in building production-gra
 ## 🏆 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vgonearth&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgonearth&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venu-369&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venu-369&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -43,13 +43,6 @@ I am an experienced **AI/ML Engineer** with expertise in building production-gra
 
 ---
 
-## ⚡ Fun with Animations
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vgonearth/vgonearth/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</div>
-
----
 
 ## 📫 Let's Connect
 
