@@ -1,7 +1,7 @@
 # Hi, I'm Venu Gopal Miriyala! 👋
 
 <div align="center">
-  <img src="https://github.com/venu-369/venu-369/blob/main/assets/header.png" alt="Header Image" />
+  <img src="https://github.com/venu-369/venu-369/blob/main/assets/header.jpg" alt="Header Image" />
 </div>
 
 ---
