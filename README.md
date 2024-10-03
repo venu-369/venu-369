@@ -1,65 +1,64 @@
 # Hi, I'm Venu Gopal Miriyala! 👋
 
-🔭 **AI/ML Engineer | Data Scientist | Cloud Enthusiast**  
-📍 Based in London, UK  
-📧 Reach me at: [mrvenug6@gmail.com](mailto:mrvenug6@gmail.com)  
-🔗 [Personal Website](www.x.com/) | [GitHub Profile](https://github.com/vgonearth)
+![Header](https://raw.githubusercontent.com/yourusername/yourrepository/main/header-image.png)  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vgonearth&style=flat-square" alt="Profile views" /> 
+  <a href="https://github.com/vgonearth?tab=followers"><img src="https://img.shields.io/github/followers/vgonearth?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="mailto:mrvenug6@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-Email-red?style=flat-square" alt="Email me" /></a>
+</div>
+
+---
 
 ## About Me
-I am an AI/ML Engineer with 4+ years of experience in designing, developing, and deploying machine learning and AI solutions across industries. My expertise lies in building production-grade machine learning models and designing scalable end-to-end data pipelines using various cloud platforms like AWS, Azure, and GCP. 
 
-With a strong foundation in Python, TensorFlow, and PyTorch, I specialize in optimizing neural network architectures and creating advanced analytics solutions using deep learning techniques such as Transformers, GANs, and LSTMs.
+I am an experienced **AI/ML Engineer** with expertise in building production-grade machine learning models, optimizing deep learning architectures, and implementing scalable data pipelines using cloud technologies.
 
-## 🔧 Technologies & Tools
+💻 **Tech Stack:**
 
-### Programming Languages:
-- Python (Advanced), Java, JavaScript, Rust, Solidity, SQL, Scala, PL/SQL, GoLang
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
-### Machine Learning:
-- TensorFlow, PyTorch, Keras, Scikit-learn, LightGBM, XGBoost, Pandas, NumPy, PySpark
-- Specialization in Transformers, CNNs, LSTMs, GANs, and Diffusion Models
+---
 
-### Cloud Platforms:
-- **AWS**: EC2, S3, Lambda, SageMaker, DynamoDB, Kinesis, IAM, CloudFormation
-- **Azure**: Data Lake Storage, SQL Database, Azure DevOps
-- **GCP**: BigQuery, Dataflow, Pub/Sub, Cloud Run
+## 🏆 My GitHub Stats
 
-### Databases:
-- MySQL, PostgreSQL, MongoDB, Cassandra, DynamoDB, Snowflake, Redshift
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vgonearth&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgonearth&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-### DevOps & CI/CD:
-- Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD, Terraform, Airflow
+---
 
-### Data Engineering:
-- Apache Spark, Hadoop, Hive, Flink, Kafka, RabbitMQ, DBT, Matillion
+## 🛠 What I’m Working On
 
-### Frontend & Backend:
-- Flask, Django, FastAPI, REST APIs, HTML, CSS, JavaScript, React, Node.js
+- Building **AI-driven solutions** for businesses and startups.
+- Leveraging **AWS CDK and Terraform** for cloud infrastructure automation.
+- Exploring **Quantum Computing** to enhance machine learning models.
+- Continuous contributions to **open-source projects**.
 
-## 🔥 What I’m Working On:
-- Developing scalable AI/ML solutions for businesses as a freelance AI/ML engineer.
-- Implementing data pipelines using Airflow and integrating models with LangChain.
-- Automating infrastructure using AWS CDK and Terraform for efficient resource management.
-- Exploring Quantum Computing to enhance machine learning models.
+---
 
-## 🏆 Projects & Achievements:
-- Implemented transformer-based architectures and generative models, improving model performance by 15%.
-- Deployed machine learning models on AWS SageMaker for scalable solutions.
-- Worked with various startups to build AI strategies that align with their business goals.
+## ⚡ Fun with Animations
 
-## 📚 Education
-**Master of Science in Artificial Intelligence and Robotics**  
-*University of Hertfordshire, London, UK* | 2021 – 2023
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vgonearth/vgonearth/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</div>
 
-## 📈 Stats
-![Venu Gopal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vgonearth&show_icons=true&theme=radical)
+---
 
-## 🌱 Other Interests:
-- Exploring the intersection of quantum computing and machine learning.
-- Philosophy of Mind and AI Ethics.
-- Art & Technology: Creating AI-generated art.
-- Music Production: Integrating AI into music workflows.
+## 📫 Let's Connect
 
-## 📫 Let's Connect:
-- Email: [mrvenug6@gmail.com](mailto:mrvenug6@gmail.com)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/venugopalmiriyala/)
+- 💼 [LinkedIn](https://linkedin.com/in/venugopalmiriyala)
+- 🖥️ [Portfolio](https://www.x.com)
+- 📧 [Email Me](mailto:mrvenug6@gmail.com)
+
+---
+
+<div align="center">
+  <h2> Have a great day! 😊 </h2>
+</div>
